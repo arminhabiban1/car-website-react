@@ -1,4 +1,4 @@
-import React from 'react';
+import React ,{useState} from 'react';
 import Navbar from './component/Navbar/Navbar';
 import Background from './component/Background/Background';
  import Hero from './component/Hero/Hero';
